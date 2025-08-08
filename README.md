@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gb-esperanzo
-- 👀 I’m interested in daa analytics and blockchain technology..
-- 🌱 I’m currently learning excel,python and SQL
+- 👀 I’m interested in Backend development and blockchain technology..
+- 🌱 I’m proficient in excel & SQL
 - 💞️ I’m looking to collaborate on financial data modelling
 - 😄 Pronouns: HE
 - ⚡ Fun fact: Keep Learning
